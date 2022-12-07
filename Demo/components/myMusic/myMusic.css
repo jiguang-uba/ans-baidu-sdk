@@ -1,0 +1,14 @@
+/* conponents/music/music.wxss */
+.com-button {
+    width: 100%;
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #337ab7;
+    margin-bottom: 10rpx;
+}
+.com-ui{
+    width: 100%;
+    background-color:#07c160;
+    color: white;
+    margin-bottom: 10rpx;
+}

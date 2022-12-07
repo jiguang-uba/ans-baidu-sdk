@@ -1,0 +1,5 @@
+<!-- 第二步：components/movie/index.wxml -->
+<button class="com-ui">组件1</button>
+<button bind:tap="onTap" class="com-button">组件1(registerSuperProperty)</button>
+<button bind:tap="onPageView" class="com-button">组件1(pageView)</button>
+<button bind:tap="behaviorTap" class="com-button">组件1(behavior里面的方法)</button>

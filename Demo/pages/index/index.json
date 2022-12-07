@@ -1,0 +1,7 @@
+{
+    "navigationBarTitleText": "智能小程序示例",
+    "usingComponents": {
+        "my-component": "/components/myMovie/myMovie",
+        "my-music": "/components/myMusic/myMusic"
+    }
+}

@@ -1,0 +1,4 @@
+<!-- 第三步：components/music/index.wxml -->
+<button class="com-ui">组件2</button>
+<button bind:tap="onTap" class="com-button">组件2(registerSuperProperty)</button>
+<button bind:tap="onPageView" class="com-button">组件2(pageView)</button>

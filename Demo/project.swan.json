@@ -1,0 +1,36 @@
+{
+    "appid": "17767960",
+    "compilation-args": {
+        "common": {
+            "enhance": true
+        },
+        "options": [
+            {
+                "extra": {
+                    "compileArgs": "--module cmd",
+                    "ext": {},
+                    "index": "pages/index/index",
+                    "query": "campaign_id=1233333331&utm_source=22&utm_medium=33&utm_term=44&utm_content=0&utm_campaign=false",
+                    "scene": {}
+                },
+                "id": 0,
+                "text": "UTM"
+            }
+        ],
+        "selected": -1
+    },
+    "host": "baiduboxapp",
+    "preview": {
+        "packageId": 786839
+    },
+    "projectname": "baiduDemo",
+    "setting": {
+        "urlCheck": false
+    },
+    "swan": {
+        "baiduboxapp": {
+            "swanJsVersion": "3.180.15",
+            "extensionJsVersion": "1.13.1"
+        }
+    }
+}
